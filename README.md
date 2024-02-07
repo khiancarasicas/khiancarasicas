@@ -19,7 +19,7 @@
 [//]: <> (Credits: khiancarasicas)
 [//]: <> (Credits: Last edited on: Feb 07, 2024)
 ### LANGUAGES AND TOOLS
-<a href="#"><img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=android&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-f5f5f5?style=for-the-badge&logo=androidstudio&logoColor=000"></a>
+<a href="#"><img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=android&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-bdbdbd?style=for-the-badge&logo=androidstudio&logoColor=000"></a>
 
 ----------------------------
 
