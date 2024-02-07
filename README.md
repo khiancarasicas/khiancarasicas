@@ -3,8 +3,8 @@
 ----------------------------
 
 ### ABOUT ME
-- Aspiring mobile app developer
-- Information technology student at STI College Legazpi
+- Aspiring Mobile App Developer
+- Information Technology Student at STI College Legazpi
 
 ----------------------------
 
@@ -16,7 +16,13 @@
 [//]: <> (Credits: khiancarasicas)
 [//]: <> (Credits: Last edited on: Feb 07, 2024)
 ### LANGUAGES AND TOOLS
-<a href="#"><img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=android&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-0f0f0f?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-141414?style=for-the-badge&logo=androidstudio&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/NETBEANS-141414?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-141414?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&link=%23"></a>
+<a href="#"><img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=android&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ffffff&link=%23"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql&logoColor=ffffff&link=%23"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-000?style=for-the-badge&logo=androidstudio&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/NETBEANS-000?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-000?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&link=%23"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/CANVA-000?style=for-the-badge&logo=canva&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=ffffff&link=%23"></a>
 
 ----------------------------
 
@@ -24,7 +30,7 @@
 
 [![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiancarasicas&theme=transparent)](https://github.com/khiancarasicas)
 
-[![Programming languages](https://github-readme-stats.vercel.app/api?username=khiancarasicas&show_icons=true&theme=transparent)](https://github.com/khiancarasicas)
+[![Programming languages](https://github-readme-stats.vercel.app/api?username=khiancarasicas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/khiancarasicas)
 
 ----------------------------
 
