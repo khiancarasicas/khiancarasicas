@@ -27,10 +27,11 @@
 ----------------------------
 
 ### GITHUB STATS
-
 [![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiancarasicas&theme=transparent)](https://github.com/khiancarasicas)
 
 [![Programming languages](https://github-readme-stats.vercel.app/api?username=khiancarasicas&show_icons=true&theme=transparent)](https://github.com/khiancarasicas)
 
 ----------------------------
 
+### Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/khiancarasicas/count.svg)
