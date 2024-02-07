@@ -9,7 +9,10 @@
 ----------------------------
 
 ### SOCIALS
-<a href="https://www.instagram.com/khiancarasicas"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=fff"></a> <a href="https://www.facebook.com/khiancarasicas"><img src="https://img.shields.io/badge/FACEBOOK-000?style=for-the-badge&logo=facebook&logoColor=fff"></a> <a href="https://www.tiktok.com/@.khncrscs"><img src="https://img.shields.io/badge/TIKTOK-000?style=for-the-badge&logo=tiktok&logoColor=fff"></a> <a href="https://ph.linkedin.com/in/khiancarasicas"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+<a href="https://www.instagram.com/khiancarasicas"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=fff"></a> <a href="https://www.facebook.com/khiancarasicas"><img src="https://img.shields.io/badge/FACEBOOK-000?style=for-the-badge&logo=facebook&logoColor=fff"></a> <a href="https://www.tiktok.com/@.khncrscs"><img src="https://img.shields.io/badge/TIKTOK-000?style=for-the-badge&logo=tiktok&logoColor=fff"></a>
+
+### CONTACT ME
+<a href="mailto: khianreendy.c@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=fff"></a> <a href="https://ph.linkedin.com/in/khiancarasicas"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 
 ----------------------------
 
