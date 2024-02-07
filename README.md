@@ -4,8 +4,7 @@
 ### ABOUT ME
 - Aspiring mobile app developer
 - Information technology student at STI College Legazpi
-<br>
-----------------------------
+<hr>
 
 ### SOCIALS
 <a href="https://www.instagram.com/khiancarasicas"><img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=fff
