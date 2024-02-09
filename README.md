@@ -37,4 +37,4 @@
 ----------------------------
 
 ### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/khiancarasicas/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/khiancarasicas/count.svg)](https://github.com/khiancarasicas)
