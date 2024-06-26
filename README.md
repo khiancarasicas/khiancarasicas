@@ -21,7 +21,7 @@
 ### LANGUAGES AND TOOLS
 <a href="#"><img src="https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=android&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=ffffff&link=%23"></a>
 
-<a href="#"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=mysql&logoColor=ffffff&link=%23"></a>
+<a href="#"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/FIREBASE-000?style=for-the-badge&logo=firebase&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=ffffff&link=%23"></a>
 
 <a href="#"><img src="https://img.shields.io/badge/ANDROID%20STUDIO-000?style=for-the-badge&logo=androidstudio&logoColor=fff"></a> <a href="#"><img src="https://img.shields.io/badge/NETBEANS-000?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff&link=%23"></a> <a href="#"><img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-000?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&link=%23"></a>
 
