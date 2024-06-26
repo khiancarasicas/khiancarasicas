@@ -4,7 +4,6 @@
 
 ### ABOUT ME
 - Aspiring Mobile App Developer
-- Information Technology Student at STI College Legazpi
 
 ----------------------------
 
