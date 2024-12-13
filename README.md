@@ -1,4 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643517028/30796/meow_derpy.gif" width="22"/>
 I'm **Khian Carasicas**, an information technology student based in **Albay, Philippines**, with a clear aspiration to become a proficient developer.
 
-[![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiancarasicas&theme=transparent)](https://github.com/khiancarasicas)
+[![](https://visitcount.itsvg.in/api?id=khiancarasicas&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/khiancarasicas)
+
+[//]: <> (@khiancarasicas)
+[//]: <> (Last edited: 12/13/24)
